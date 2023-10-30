@@ -1,0 +1,86 @@
+{
+    "questions": [
+        {
+            "id": "sayayin",
+            "text": "Tu personaje es un saiyajin?"
+        },
+        {
+            "id": "human",
+            "text": "Tu personaje es un humano?"
+        },
+        {
+            "id": "hair",
+            "text": "Tu personaje tiene cabello?"
+        },
+        {
+            "id": "orange_clothes",
+            "text": "Tu personaje se viste de naranja?"
+        },
+        {
+            "id": "Ni\u00f1o",
+            "text": "Tu personaje es un ni\u00f1o?"
+        }
+    ],
+    "characters": [
+        {
+            "name": "Goku",
+            "attributes": {
+                "sayayin": true,
+                "human": false,
+                "hair": true,
+                "orange_clothes": true,
+                "Ni\u00f1o": false
+            }
+        },
+        {
+            "name": "Vegeta",
+            "attributes": {
+                "sayayin": true,
+                "human": false,
+                "hair": true,
+                "orange_clothes": false,
+                "Ni\u00f1o": false
+            }
+        },
+        {
+            "name": "Bulma",
+            "attributes": {
+                "sayayin": false,
+                "human": true,
+                "hair": true,
+                "orange_clothes": false,
+                "Ni\u00f1o": false
+            }
+        },
+        {
+            "name": "Krillin",
+            "attributes": {
+                "sayayin": false,
+                "human": true,
+                "hair": false,
+                "orange_clothes": true,
+                "Ni\u00f1o": false
+            }
+        },
+        {
+            "name": "Gohan",
+            "attributes": {
+                "sayayin": true,
+                "human": true,
+                "hair": true,
+                "orange_clothes": true,
+                "Ni\u00f1o": false
+            }
+        },
+        {
+            "name": "Goten",
+            "attributes": {
+                "sayayin": true,
+                "human": true,
+                "hair": true,
+                "orange_clothes": true,
+                "Ni\u00f1o": true
+            }
+        }
+    ]
+}
